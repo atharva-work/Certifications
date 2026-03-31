@@ -1,5 +1,12 @@
 # CCNA Certification Details from Techonquer
 
+<br/>
+
+## Certifiate Verification Portal URL: https://certificate.techonquer.org/
+
+
+<br/>
+
 #### Student Name:
 ```console
 Atharva Jagdale
